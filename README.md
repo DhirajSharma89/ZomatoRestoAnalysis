@@ -1,10 +1,10 @@
-#Zomato Insights Dashboard
+# Zomato Insights Dashboard
 
-📌 Overview
+ # 📌 Overview
 
 This Power BI dashboard provides an in-depth analysis of Zomato restaurant data, offering insights into key business metrics such as restaurant ratings, pricing trends, cuisine popularity, and location-based performance.
 
-📊 Features
+# 📊 Features
 
 Restaurant Ratings Analysis: Distribution of ratings across different cities and cuisines.
 
@@ -16,7 +16,7 @@ Geographical Insights: Mapping restaurant density and performance across cities.
 
 Delivery & Booking Trends: Analysis of online delivery and table booking availability.
 
-📂 File Information
+# 📂 File Information
 
 File Name: Zomato_Insights_Dashboard.pbix
 
@@ -24,21 +24,21 @@ Tool Used: Microsoft Power BI
 
 Data Source: Zomato restaurant dataset
 
-🚀 How to Use
+# 🚀 How to Use
 
-Download & Open:
+# Download & Open:
 
 Ensure Microsoft Power BI Desktop is installed on your system.
 
 Download and open Zomato_Insights_Dashboard.pbix in Power BI.
 
-Explore the Dashboard:
+# Explore the Dashboard:
 
 Use the interactive filters and visuals to gain insights.
 
 Hover over charts for detailed data points.
 
-Customize & Extend:
+# Customize & Extend:
 
 Modify visuals as per your requirements.
 
